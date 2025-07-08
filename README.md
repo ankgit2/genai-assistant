@@ -9,7 +9,7 @@ An AI-powered assistant that reads uploaded documents (PDF/TXT), summarizes them
 - 📄 Upload PDF documents
 - ✍️ Auto-summary (≤ 150 words)
 - 🤖 Ask Anything: free-form question answering based on document content
-- 🧩 Challenge Me: generates 3 logic-based questions and evaluates user responses
+- 🧩 Challenge Me: generates  logic-based questions and evaluates user responses
 - 📚 Justified responses: each answer includes a reference to where it came from in the document
 - 🧠 Memory: remembers previous questions and answers for follow-up context
 - 🌐 Fully local web-based UI using Streamlit
