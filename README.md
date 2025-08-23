@@ -84,8 +84,4 @@ genai-assistant/
 
 
 
-#  images
-<img width="1919" height="1018" alt="Screenshot 2025-07-06 161735" src="https://github.com/user-attachments/assets/4538c6b2-0bab-4f01-92b4-68dcbf64e0d0" />
-<img width="1919" height="1041" alt="Screenshot 2025-07-06 153229" src="https://github.com/user-attachments/assets/cd26a33c-ba83-4f93-8516-990199d48d0e" />
-<img width="1900" height="976" alt="Screenshot 2025-07-06 152917" src="https://github.com/user-attachments/assets/66e4b624-3fed-4abc-8ded-94d468d695ce" />
-<img width="1919" height="531" alt="Screenshot 2025-07-06 132848" src="https://github.com/user-attachments/assets/7a77e531-d301-4193-847a-bd4040b4825c" />
+
