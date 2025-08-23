@@ -79,9 +79,12 @@ genai-assistant/
     ├── summarizer.py
     ├── qa_engine.py
     └── document_parser.py
+```
+---
 
 
 
+<img width="1919" height="1018" alt="Screenshot 2025-07-06 161735" src="https://github.com/user-attachments/assets/6cb2b9e0-64ea-4e00-9fdd-264b47abfe38" />
 
 
-
+---
